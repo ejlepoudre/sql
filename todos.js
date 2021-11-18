@@ -18,6 +18,6 @@ module.exports = [
   },
   {
     id: 5,
-    task: "Make SDinner"
+    task: "Make SDfinner"
   }
 ];
