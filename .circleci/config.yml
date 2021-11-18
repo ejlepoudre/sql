@@ -20,7 +20,7 @@ jobs:
             - ./node_modules
       - run:
           name: Run tests
-          command: npm run test
+          command: npm install
       - run:
           name: Configure Github credentials
           command: |
