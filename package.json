@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node server.js",
-    "deploy" : "npx gh-pages -b deploy --message '[skip ci] Updates' -d ./"
+    "deploy": "npx gh-pages -b deploy --message '[skip ci] Updates' -d ./"
   },
   "author": "",
   "license": "ISC",
